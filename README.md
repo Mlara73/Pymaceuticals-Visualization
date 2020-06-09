@@ -23,6 +23,6 @@
 
 ![Pymaceuticals](Images/Box_Chart.PNG)
 
-###### * From Fig.6, it is observed that there is a strong positive correlation between mice weight and tumor volume, which means that the greater the mice weight(g), the greater the tumor volume(mm3). This can also be confirmed through the lienar model that was generated to this variables analysis, where the line equation obtained was y = 0.74x +- 10.15 (where "y" represents the mice weight and "x" the Tumor Volume).
+###### * From Fig.6, it is observed that there is a strong positive correlation between mice weight and tumor volume, which means that the greater the mice weight(g), the greater the tumor volume(mm3). This can also be confirmed through the lienar model that was generated to this variables analysis, where the line equation obtained was y = 0.74x +- 10.15 (where "y" represents the mice Tumor Volume and "x" the weight).
 
 ![Pymaceuticals](Images/Linear_Regression.PNG)
