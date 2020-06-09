@@ -1,6 +1,6 @@
 # Pymaceuticals Project
 
-###### This project is to generate a graphical analysis of a Mice Study,where 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens.
+###### The goal of this project is to generate a graphical analysis of a Mice Study,where 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens.
 ###### The following conclusions summarizes this analysis:
 
 ###### * Based on the Summary Statistics Results over the 45 days of the study, it can be seen that Capomulin and Ramicane drug regimens are the most effective and consistent treatments, due that both presents the less tumor volume average (40.68 mm3 and 40.22 mm3 respectively), and thus the standard deviations (0.33 mm3 and 0.32 mm3 respectively). From the standard error (SEM) results, it can be inferred that the Average Tumor Volume for Capomulin Population can be between 40.35 and 41 mm3, and for Ramicane between  39.90 and 40.54 mm3.
